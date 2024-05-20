@@ -13,13 +13,13 @@ The primary objective of the Details Dashboard is to provide a comprehensive and
 
 ### Good Loan v Bad Loan KPI’s
 
-#### Good Loan:<br />
+#### Good Loan:
 Good Loan Application Percentage <br />
 Good Loan Applications <br />
 Good Loan Funded Amount <br />
 Good Loan Total Received Amount <br />
 
-#### Bad Loan: <br />
+#### Bad Loan: 
 Bad Loan Application Percentage <br />
 Bad Loan Applications <br />
 Bad Loan Funded Amount <br />
